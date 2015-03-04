@@ -2,6 +2,8 @@
 
 > All wrapped up here sir! Will there be anything else?
 
+![Imgur](http://i.imgur.com/wsh4It2.png)
+
 You never know when you're going to need a static webserver. Everything
 in the app/assets directory gets moved over into the build directory
 verbatim. No fuss, no muss.
