@@ -1,0 +1,21 @@
+{
+  "author": "author.email@domain.com",
+  "name": "Project_Name",
+  "description": "Package description",
+  "version": "1.5.4",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.10 || 0.8 || 0.9"
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "brunch test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
