@@ -1,21 +1,20 @@
 {
-  "author": "author.email@domain.com",
-  "name": "Project_Name",
-  "description": "Package description",
-  "version": "1.5.4",
-  "homepage": "",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "engines": {
-    "node": "~0.6.10 || 0.8 || 0.9"
-  },
-  "scripts": {
-    "start": "brunch watch --server",
-    "test": "brunch test"
-  },
-  "dependencies": {
-  },
-  "devDependencies": {}
+    "author": "kneely1995@outlook.com",
+    "name": "Brunch-Website",
+    "description": "Personal Bussiness",
+    "version": "1.0",
+    "homepage": "https://kneely.space",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "node": "~0.6.10 || 0.8 || 0.9"
+    },
+    "scripts": {
+        "start": "brunch watch --server",
+        "test": "brunch test"
+    },
+    "dependencies": {},
+    "devDependencies": {}
 }
